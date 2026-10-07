@@ -17,3 +17,4 @@ Vertrauensnetz aus echten Kreisen. Kontakte bleiben im Browser — nicht auf dem
 Keine Datenbank, keine Anmeldung. Node 22, falls Vercel nach der Version fragt.
 
 Optional: in Vercel unter **Domains** eine eigene Domain anbinden.
+
